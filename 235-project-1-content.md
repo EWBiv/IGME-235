@@ -33,7 +33,7 @@ Teaching the Game: There will be a small description below the game of how to pl
 
 The basic mechanics of the game will be included in the small and straight-forward description.
 
-In order to beat the game, players will need to prioritize what they value. If they believe that having all four members in one room they can survive longer than being spread out, they can use that as a valid strategy (and vice-versa). Other strategies would include the questions of who to upgrade, who to focus on upgrading and who to let ‘die’ in tough scenarios, only confounded by random enemy spawns and closing sections that won’t be open some rounds. Players will be notified in the in-between round phase what doors will be closed in the next round with HUD indication.
+In order to beat the game, players will need to prioritize what they value. If they believe that having all four members in one room they can survive longer than being spread out, they can use that as a valid strategy (and vice-versa). Other strategies would include the questions of who to upgrade, who to focus on upgrading and who to let ‘die’ in tough scenarios, only confounded by random enemy spawns and closing sections that won’t be open some rounds. Players will know which doors will be closed and which will be open prior to the round start.
 
 ## Images
 
