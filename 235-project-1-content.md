@@ -35,6 +35,26 @@ The basic mechanics of the game will be included in the small and straight-forwa
 
 In order to beat the game, players will need to prioritize what they value. If they believe that having all four members in one room they can survive longer than being spread out, they can use that as a valid strategy (and vice-versa). Other strategies would include the questions of who to upgrade, who to focus on upgrading and who to let ‘die’ in tough scenarios, only confounded by random enemy spawns and closing sections that won’t be open some rounds. Players will be notified in the in-between round phase what doors will be closed in the next round with HUD indication.
 
+## Images
+
+An overview of the level:
+
+![Level Overview][logo]
+
+[logo]: https://github.com/EWBiv/IGME-235/blob/master/levelMockup.png "Level overview"
+
+An example of the in-between round menu:
+
+![Level Overview with in-between round menu][logo]
+
+[logo]: https://github.com/EWBiv/IGME-235/blob/master/mockupTwo.png "Level overview with in-between round menu"
+
+Gameplay example:
+
+![Level Overview during gameplay][logo]
+
+[logo]: https://github.com/EWBiv/IGME-235/blob/master/mockupThree.png "Level overview during gameplay"
+
 ### About the Developer 
 
 I am a Second Year Game Design and Development student who is eager to learn more about making games. I currently use C#, Java, HTML, CSS, Maya, and design levels as well.
