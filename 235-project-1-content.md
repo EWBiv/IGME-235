@@ -57,4 +57,4 @@ Gameplay example:
 
 ### About the Developer 
 
-I am a Second Year Game Design and Development student who is eager to learn more about making games. I currently use C#, Java, HTML, CSS, Maya, and design levels as well.
+I am a Second Year Game Design and Development student who is eager to learn more about making games. I currently use C#, Java, HTML, CSS and Maya. I also design levels!
