@@ -39,21 +39,21 @@ In order to beat the game, players will need to prioritize what they value. If t
 
 An overview of the level:
 
-![Level Overview][logo]
+![Level Overview][mockup1]
 
-[logo]: https://github.com/EWBiv/IGME-235/blob/master/levelMockup.png "Level overview"
+[mockup1]: https://github.com/EWBiv/IGME-235/blob/master/levelMockup.png "Level overview"
 
 An example of the in-between round menu:
 
-![Level Overview with in-between round menu][logo]
+![Level Overview with in-between round menu][mockup2]
 
-[logo]: https://github.com/EWBiv/IGME-235/blob/master/mockupTwo.png "Level overview with in-between round menu"
+[mockup2]: https://github.com/EWBiv/IGME-235/blob/master/mockupTwo.png "Level overview with in-between round menu"
 
 Gameplay example:
 
-![Level Overview during gameplay][logo]
+![Level Overview during gameplay][mockup3]
 
-[logo]: https://github.com/EWBiv/IGME-235/blob/master/mockupThree.png "Level overview during gameplay"
+[mockup3]: https://github.com/EWBiv/IGME-235/blob/master/mockupThree.png "Level overview during gameplay"
 
 ### About the Developer 
 
