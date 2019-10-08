@@ -20,7 +20,7 @@ A couple of friends think it would be a cool idea to explore a neighborhood haun
 The mood of this game is cartoony fun. It has a fake dark atmosphere with 'spooky' sounds but is very light. The players’ motivation is to beat their previous record at defending from the increasing hordes of enemies. These records will be stored locally and checked after each round. It will be a strategic and skill-based single player game, so coming up with a great strategy will tremendously help your score. In the same way, I will attempt to allow a few different ways to play the game successfully. 
 ## Esthetics 
 
-Mentioned a bit prior, the graphics style will be cartoony fun. It will be 16bit pixelated.
+Mentioned a bit prior, the graphics style will be cartoony fun. It will be 16-bit graphics.
 Each shot will have a small sound effect, each enemy vanquished will give a larger sound effect, and a round victory will grant an even grander completion sound. The style of these sounds will be like an arcade game, but slightly modernized. A small song will be playing in the background of rounds, with a separate one playing in the in-between phase.
 
 ## Mechanics 
